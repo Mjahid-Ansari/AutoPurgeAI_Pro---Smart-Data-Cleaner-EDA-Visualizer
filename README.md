@@ -55,3 +55,16 @@ Bob,35,Sales,55000,7
 Charlie,40,HR,60000,10
 Diana,25,Engineering,65000,2
 Eve,32,Marketing,58000,5
+
+
+
+# Clone the repository
+git clone https://github.com/yourusername/AutoPurgeAI_Pro.git
+cd AutoPurgeAI_Pro
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run app.py
+
